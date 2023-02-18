@@ -1,5 +1,6 @@
 
 # Book Rating Project  
+![Bookrate ML project image](https://user-images.githubusercontent.com/105980964/219857092-98299fc9-fefe-4680-8475-a1e18b80fd12.jpg)
 
 
 ## Project description
