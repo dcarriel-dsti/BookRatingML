@@ -14,13 +14,17 @@ Please follow the steps below to install locally the project so that you can eas
 
 Steps to install locally:
 - Step 1: 
+
+```bash
+ install blah blah...
+```
 - Step 2:
 - Step 3:
-- ... 
+
 
 ## Project in more detail
--	Data sources : 
--	Tools : 
+-	Data sources : The dataset contains approximately 11,000 rows of data scraped from the Goodreads API, with the last update made in 2019
+-	Tools : Excel, Python 
 
 ## Contributors
 - Diego Carriel Lopez
