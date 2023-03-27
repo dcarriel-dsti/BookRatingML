@@ -10,16 +10,6 @@ Fear not, because this Python project is here to save your time! By predicting t
 ## How to use 
 
 The project is designed to be user-friendly and easy to use, with a simple interface that allows users to quickly and easily find out more about the books that they are interested in.
-Please follow the steps below to install locally the project so that you can easily use it by your own!
-
-Steps to install locally:
-- Step 1: 
-
-```bash
- install blah blah...
-```
-- Step 2:
-- Step 3:
 
 
 ## Project in more detail
