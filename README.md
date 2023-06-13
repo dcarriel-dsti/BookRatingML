@@ -19,5 +19,5 @@ The project is designed to be user-friendly and easy to use, with a simple inter
 ## Contributors
 - Diego Carriel Lopez
 - Romain Duhomme
-- Lan LE
+- Viviane (Lan) LE
 - Teresa Graffi
